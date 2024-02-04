@@ -149,8 +149,7 @@ export default {
     createMap() {
       this.map = new Map({
         container: 'map',
-        style:
-          'https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
+        style: 'https://api.maptiler.com/maps/streets/style.json?key=3fWHoSNdSUga7QwMSIV5',
         center: this.centeredCoordiante,
         zoom: 5
       })
